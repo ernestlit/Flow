@@ -12,7 +12,7 @@
 
 <br/>
 
-# 📡 FlowForge — ISP Town Manager
+# 📡 FlowForge — Demo ISP Manager
 ### *React 19 · TypeScript · Tailwind CSS*
 
 **A comprehensive, offline-first ISP management platform that replaces paper records and spreadsheets — organizing subscribers by hierarchical area and town, generating monthly bills with LIFO payment logic, tracking full financial ledgers, and importing/exporting Excel files with smart parsing.**
