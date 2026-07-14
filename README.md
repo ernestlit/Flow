@@ -1,6 +1,4 @@
 
-<img width="1774" height="887" alt="02671b31-74c5-4c0b-9812-72333dc544b3" src="https://github.com/user-attachments/assets/4a7b2508-6f4e-4d33-8f78-70db4d8a29a3" />
-<br>
 
 <div align="center">
 
@@ -56,14 +54,6 @@ The application runs entirely in the browser using **localStorage** as its persi
 
 > 💡 **Real-world context:** This application was built for Pakistani ISP operators who typically use informal record-keeping systems. The 4-area structure (A, B, C, D), CNIC fields, Easypaisa/JazzCash payment methods, and Mbps-based package tracking reflect actual field operator workflows. The LIFO billing logic was specifically designed around the "common man" psychological preference for clearing the current month's bill before tackling old debt.
 
----
-
-## 🌐 Live Demo
-
-| Environment | URL |
-|-------------|-----|
-| Production (Vercel) | [net-dev-jade.vercel.app](https://flowforgeisp.vercel.app/) |
-| Repository | [github.com/ibtesaamaslam/FlowForge](https://github.com/ibtesaamaslam/FlowForge) |
 
 ---
 
@@ -426,15 +416,6 @@ From any `TownView`:
 
 ## 🚢 Deployment
 
-### Vercel (Live — Recommended)
-
-The project is live at [https://flowforgeisp.vercel.app/](https://flowforgeisp.vercel.app/) via Vercel's GitHub integration:
-
-1. Push to the `main` branch.
-2. Vercel runs `npm run build` automatically.
-3. The `dist/` output is deployed globally.
-
-### Other Static Hosts
 
 ```bash
 npm run build
@@ -475,44 +456,6 @@ netlify deploy --prod --dir=dist
 - [ ] **Multi-branch support** — manage multiple ISP offices under a single account
 - [ ] **Automated monthly billing** — scheduled bill generation instead of manual trigger
 
----
-
-## 🤝 Contributing
-
-```bash
-# 1. Fork the repository
-
-# 2. Clone your fork
-git clone https://github.com/YOUR-USERNAME/FlowForge.git
-cd FlowForge
-
-# 3. Install dependencies
-npm install
-
-# 4. Create a feature branch
-git checkout -b feature/supabase-backend
-
-# 5. Make changes and commit
-git add .
-git commit -m "feat: replace localStorage with Supabase SDK in storageService.ts"
-
-# 6. Push and open a Pull Request
-git push origin feature/supabase-backend
-```
-
-Good first contributions: Supabase backend integration, JWT authentication, dark mode toggle, additional Excel export columns, or SMS gateway connection.
-
----
-
-## 👤 Author
-
-<div align="center">
-
-**Ibtesaam Aslam**
-
-[![GitHub](https://img.shields.io/badge/GitHub-ibtesaamaslam-181717?style=for-the-badge&logo=github)](https://github.com/ibtesaamaslam)
-
-*Full-Stack Developer · ISP Tools · Offline-First Apps*
 
 </div>
 
@@ -565,14 +508,3 @@ THE SOFTWARE.
 
 ---
 
-<div align="center">
-
-**⭐ If FlowForge helped streamline your ISP operations, please consider starring it on GitHub!**
-
-[![Star on GitHub](https://img.shields.io/github/stars/ibtesaamaslam/FlowForge?style=social)](https://github.com/ibtesaamaslam/FlowForge)
-
-🌐 https://flowforgeisp.vercel.app/
-
-*Replacing paper records with smart ISP management — Built with ❤️ by [Ibtesaam Aslam](https://github.com/ibtesaamaslam)*
-
-</div>
