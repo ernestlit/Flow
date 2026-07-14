@@ -15,23 +15,12 @@
 <br/>
 
 # 📡 FlowForge — ISP Town Manager
-### *React 19 · TypeScript · Tailwind CSS · SheetJS · Offline-First*
+### *React 19 · TypeScript · Tailwind CSS*
 
 **A comprehensive, offline-first ISP management platform that replaces paper records and spreadsheets — organizing subscribers by hierarchical area and town, generating monthly bills with LIFO payment logic, tracking full financial ledgers, and importing/exporting Excel files with smart parsing.**
 
 <br/>
 
-🌐 **Live Demo:** https://flowforgeisp.vercel.app/
-
-<br/>
-
-[![GitHub Stars](https://img.shields.io/github/stars/ibtesaamaslam/FlowForge?style=social)](https://github.com/ibtesaamaslam/FlowForge/stargazers)
-&nbsp;
-[![GitHub Forks](https://img.shields.io/github/forks/ibtesaamaslam/FlowForge?style=social)](https://github.com/ibtesaamaslam/FlowForge/network/members)
-&nbsp;
-[![GitHub Issues](https://img.shields.io/github/issues/ibtesaamaslam/FlowForge)](https://github.com/ibtesaamaslam/FlowForge/issues)
-
-</div>
 
 ---
 
