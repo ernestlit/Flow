@@ -12,7 +12,7 @@
 
 <br/>
 
-# 📡 FlowForge — Demo ISP Manager
+# 📡 W3Hive — Demo ISP Manager
 ### *React 19 · TypeScript · Tailwind CSS*
 
 **A comprehensive, offline-first ISP management platform that replaces paper records and spreadsheets — organizing subscribers by hierarchical area and town, generating monthly bills with LIFO payment logic, tracking full financial ledgers, and importing/exporting Excel files with smart parsing.**
@@ -21,7 +21,7 @@
 
 ## 🔍 Overview
 
-**FlowForge — ISP Town Manager** is a production-ready, offline-first web application built specifically for Internet Service Providers (ISPs) who still manage their subscriber base through paper records, physical ledgers, or disconnected spreadsheets. It provides a unified digital platform to organise subscribers by geographic **Area** and **Town**, run monthly billing cycles, accept payments with a psychologically-designed **LIFO clearing system**, and generate Excel reports — all without needing a backend server.
+**W3Hive — ISP Town Manager** is a production-ready, offline-first web application built specifically for Internet Service Providers (ISPs) who still manage their subscriber base through paper records, physical ledgers, or disconnected spreadsheets. It provides a unified digital platform to organise subscribers by geographic **Area** and **Town**, run monthly billing cycles, accept payments with a psychologically-designed **LIFO clearing system**, and generate Excel reports — all without needing a backend server.
 
 The application runs entirely in the browser using **localStorage** as its persistence layer. This makes it instantly deployable on any static host with zero infrastructure cost, while keeping all subscriber data private on the operator's device.
 
@@ -180,7 +180,7 @@ Dashboard reflects:
 ## 📂 Project Structure
 
 ```
-FlowForge/
+W3Hive/
 │
 ├── index.html                    # Entry point — importmap + Tailwind CDN
 ├── index.tsx                     # React DOM root mount
@@ -266,8 +266,8 @@ interface LedgerEntry {
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/ibtesaamaslam/FlowForge.git
-cd FlowForge
+git clone https://github.com/ibtesaamaslam/W3Hive.git
+cd W3Hive
 
 # 2. Install dependencies (for Vite-based development)
 npm install
