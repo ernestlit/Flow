@@ -19,33 +19,6 @@
 
 <br/>
 
-
----
-
-## 📋 Table of Contents
-
-- [Overview](#-overview)
-- [Live Demo](#-live-demo)
-- [Tech Stack](#-tech-stack)
-- [Key Features](#-key-features)
-- [LIFO Billing Logic](#-lifo-billing-logic--explained)
-- [Role-Based Access Control](#-role-based-access-control)
-- [System Architecture](#-system-architecture)
-- [Project Structure](#-project-structure)
-- [TypeScript Interfaces](#-typescript-interfaces)
-- [Getting Started](#-getting-started)
-- [Usage Guide](#-usage-guide)
-- [Excel Import Format](#-excel-import-format)
-- [Data Export](#-data-export)
-- [Deployment](#-deployment)
-- [Limitations & Roadmap](#-limitations--roadmap)
-- [Contributing](#-contributing)
-- [Author](#-author)
-- [License](#-license)
-- [Acknowledgements](#-acknowledgements)
-
----
-
 ## 🔍 Overview
 
 **FlowForge — ISP Town Manager** is a production-ready, offline-first web application built specifically for Internet Service Providers (ISPs) who still manage their subscriber base through paper records, physical ledgers, or disconnected spreadsheets. It provides a unified digital platform to organise subscribers by geographic **Area** and **Town**, run monthly billing cycles, accept payments with a psychologically-designed **LIFO clearing system**, and generate Excel reports — all without needing a backend server.
